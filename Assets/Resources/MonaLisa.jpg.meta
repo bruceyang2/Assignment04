@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 1e59bed49cc68a14bb806aee25fb4b49
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonaLisa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43ff7e070044c54e8a2d92d9cb1fb42
+      internalID: 2059707102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 953.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397516847144864db60a31c7f1c939c
+      internalID: -1860791725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 953.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00711c21ce2be34ebc72df935f87a2a
+      internalID: -2055291257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 953.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c130ade1a061498488feb97e3d12eb51
+      internalID: -1025377347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 953.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5dba667d300874095a2b3b3b30e2c0
+      internalID: 204626539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd390506aa7b1574b98489b20e2a45a0
+      internalID: 750101702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 715.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b939be2beab1a214ebd8da0aa643a423
+      internalID: 1425429709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 715.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b060e67c2a516c499b2193eb55f738a
+      internalID: 1536521996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 715.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d51903b0ec3844adb7d026b1b1ba2
+      internalID: -123287428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 715.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b526a1a77cdd93249b23533217e026d7
+      internalID: 1470496956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9666cd6598d11bb4d9ae91f60648595a
+      internalID: -1626193763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 477.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ffa793bedc5044c81953896f6c3c46
+      internalID: -324961849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 477.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8b8e32ffe4b714ea3e6bf2a308323d
+      internalID: 2096693791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 477.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee657ae3cf83b641942826b2c99b760
+      internalID: 1843287118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 477.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac6d697744f634cafc403565b90bae
+      internalID: -1039855702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519abbb9870b35148b6afb9a4c24054e
+      internalID: -1305589427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 239.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a0f81d1fa4c3449d0ae0541e68d1f
+      internalID: -254930916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 239.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298bf5e0f3e08564784a5f0507a2eb6c
+      internalID: 1811711534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 239.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9594b6ec21de8674a824f0b7ef04b190
+      internalID: 2126788307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 239.6
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a88bebd211b86438a9dda9ff79ace5
+      internalID: 1132708694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6000061
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a55ddff1cceab4b9d4636194929c24
+      internalID: -765125249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1.6000061
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d65807781f5494883eb9d6b57c8fac
+      internalID: 1148144323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1.6000061
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5c6b50b22f9fe41a858f7de4c196a3
+      internalID: 314371865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1.6000061
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebc0485e56a88d49b214d3f3e91e6c7
+      internalID: 1741481622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonaLisa_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1.6000061
+        width: 160
+        height: 238.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1ff17bbd2d8be4da54438c61a94dc2
+      internalID: 51834111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MonaLisa_0: 2059707102
+      MonaLisa_1: -1860791725
+      MonaLisa_10: -1626193763
+      MonaLisa_11: -324961849
+      MonaLisa_12: 2096693791
+      MonaLisa_13: 1843287118
+      MonaLisa_14: -1039855702
+      MonaLisa_15: -1305589427
+      MonaLisa_16: -254930916
+      MonaLisa_17: 1811711534
+      MonaLisa_18: 2126788307
+      MonaLisa_19: 1132708694
+      MonaLisa_2: -2055291257
+      MonaLisa_20: -765125249
+      MonaLisa_21: 1148144323
+      MonaLisa_22: 314371865
+      MonaLisa_23: 1741481622
+      MonaLisa_24: 51834111
+      MonaLisa_3: -1025377347
+      MonaLisa_4: 204626539
+      MonaLisa_5: 750101702
+      MonaLisa_6: 1425429709
+      MonaLisa_7: 1536521996
+      MonaLisa_8: -123287428
+      MonaLisa_9: 1470496956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

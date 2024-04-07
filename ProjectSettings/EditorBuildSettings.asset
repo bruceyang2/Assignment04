@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Start Menu 1Submission.unity
+    guid: a9543b5e84917af4faf4316f03cff23c
+  - enabled: 0
+    path: Assets/Scenes/Puzzle 1Submission.unity
+    guid: f76ea404af3d3f14ebb0be3c3d339ab2
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: ae7135556c886e949b72fd668a58c6ff
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: e9b4fc85d032c224084f324458ec12b6
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: cb51be106bdb7af40a050e8e407cbc63
+  m_configObjects: {}
